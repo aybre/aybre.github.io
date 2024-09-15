@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aybre.github.io/DYb/sitemap.DYb.gz
